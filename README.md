@@ -42,11 +42,28 @@ My background sits at the crossroads of **technology, languages and Japanese cul
 
 ## `03.` Selected work
 
-My projects document my progress through systems programming, object-oriented development and the web.
+Here is a glimpse of what I've been building, from system architecture to web applications:
 
 <div align="center">
 
 [![Explore my repositories](https://img.shields.io/badge/Explore_my_repositories-%E2%86%92-f15bb5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivihane?tab=repositories)
+
+### 🐾 [Nekotchi](https://github.com/vivihane/Nekotchi)
+Web Simulation App | React TypeScript CSS
+
+    A collaborative web-based simulation application. Built with a focus on clean state management, modular components, and responsive design.
+
+### 🎮 [cub3d](https://github.com/vivihane/cub3d)
+
+    Graphics & Systems Programming | C Raycasting MiniLibX Maths
+
+        A 3D first-person graphical rendering engine inspired by the classic Wolfenstein 3D. Implemented raycasting algorithms from scratch in C, featuring wall texture mapping, player movement, and collision handling.
+
+🐳 Inception
+DevOps / Infrastructure | Docker Docker Compose Nginx WordPress MariaDB
+
+    Designing a fully virtualized, multi-container system environment. Set up secure, interconnected services with custom Dockerfiles under strict optimization constraints.
+
 
 </div>
 
@@ -62,7 +79,10 @@ My projects document my progress through systems programming, object-oriented de
 
 ## `05.` Let's connect
 
-Have a project, an opportunity, or simply want to talk about code and Japan? Feel free to reach out at **[vivihane-tech@proton.me](mailto:vivihane-tech@proton.me)**.
+I am currently looking for an internship or professional opportunity in software engineering, full-stack, or DevOps starting July 2026.
+
+Have an opportunity, or simply want to chat about code, infrastructure, or Japan? Let's get in touch!
+Feel free to reach out at **[vivihane-tech@proton.me](mailto:vivihane-tech@proton.me)**.
 
 <div align="center">
 

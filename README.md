@@ -49,9 +49,10 @@ Here is a glimpse of what I've been building, from system architecture to web ap
 [![Explore my repositories](https://img.shields.io/badge/Explore_my_repositories-%E2%86%92-f15bb5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivihane?tab=repositories)
 
 ### 🐾 [Nekotchi](https://github.com/vivihane/Nekotchi)
-Web Simulation App | React TypeScript CSS
 
-    A collaborative web-based simulation application. Built with a focus on clean state management, modular components, and responsive design.
+        Web Simulation App | React Typescript CSS
+
+            A collaborative web-based simulation application. Built with a focus on clean state management, modular components, and responsive design.
 
 ### 🎮 [cub3d](https://github.com/vivihane/cub3d)
 
@@ -59,8 +60,9 @@ Web Simulation App | React TypeScript CSS
 
         A 3D first-person graphical rendering engine inspired by the classic Wolfenstein 3D. Implemented raycasting algorithms from scratch in C, featuring wall texture mapping, player movement, and collision handling.
 
-🐳 Inception
-DevOps / Infrastructure | Docker Docker Compose Nginx WordPress MariaDB
+### 🐳 [Inception](https://github.com/vivihane/Inception)
+
+        DevOps / Infrastructure | Docker Docker Compose Nginx WordPress MariaDB
 
     Designing a fully virtualized, multi-container system environment. Set up secure, interconnected services with custom Dockerfiles under strict optimization constraints.
 

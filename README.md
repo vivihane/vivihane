@@ -69,17 +69,7 @@ Here is a glimpse of what I've been building, from system architecture to web ap
 
 </div>
 
-## `04.` GitHub activity
-
-<div align="center">
-
-[![Viviane's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivihane&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f15bb5&icon_color=9b5de5&text_color=ffffff&ring_color=f15bb5)](https://github.com/vivihane)
-
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivihane&layout=compact&hide_border=true&bg_color=0d1117&title_color=f15bb5&text_color=ffffff)](https://github.com/vivihane?tab=repositories)
-
-</div>
-
-## `05.` Let's connect
+## `04.` Let's connect
 
 I am currently looking for an internship or professional opportunity in software engineering, full-stack, or DevOps starting July 2026.
 

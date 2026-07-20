@@ -10,6 +10,7 @@ Currently learning, building and breaking things at **42 Paris**.
 [![GitHub](https://img.shields.io/badge/GitHub-2b163f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vivihane)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9b5de5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viviane-hane)
 [![Email](https://img.shields.io/badge/Email-f15bb5?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:vivihane-tech@proton.me)
+[![Download CV](https://img.shields.io/badge/Download_CV-fb7094?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./assets/viviane-hane-cv-ai-data.pdf)
 
 </div>
 
